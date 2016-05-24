@@ -1,0 +1,228 @@
+#hhhh {
+	height: 61px;
+	width: 100%;
+	position: relative;
+	background:#fcfcfc;
+	border-bottom: 1px solid #F1F1F1;
+}
+#head {
+	width: 1190px;
+	margin: 0 auto;
+	height: 60px;
+	font-size: 12px;
+	line-height: 22px;
+	font-family: 'Tahoma';
+	position: relative;
+	background:#fcfcfc;
+}
+#hlogo {
+	width: 168px;
+	float: left;
+	height: 60px;
+	margin-right: 24px;
+	z-index: 20;
+	vertical-align: top;
+}
+#head a {
+	text-decoration: none;
+}
+#head a:hover {
+	cursor: pointer;
+}
+#sethome {
+	width: 35px;
+	height: 36px;
+	position: absolute;
+	top: 0;
+	left: 168px;
+	line-height: 1.4;
+	margin-top: 13px;
+	background-color: #07ac72;
+	margin-right: 8px;
+	display: block;
+	float: left;
+	color: #ffffff;
+	text-align: center;
+}
+#daily {
+	height: 60px;
+	float: left;
+	vertical-align: top;
+}
+#weather {
+	float: left;
+	line-height: 60px;
+	margin-left: 13px;
+	cursor: pointer;
+	padding-left:9px;
+	padding-right: 10px;
+	color: #999999;
+}
+.h {
+	display: inline-block;
+}
+#daily a {
+	text-decoration: none;
+	color: #999999;
+}
+#tip {
+	width: 9px;
+	height: 6px;
+	margin-left: 4px;
+	vertical-align: middle;
+}
+#wea1 {
+	padding-right: 10px;
+	position: relative;
+}
+#w1 {
+	vertical-align: middle;
+	width: 26px;
+	height: 60px;
+	margin-top: 5px;
+
+}
+#w2 {
+	margin-left: 4px;
+}
+#w3 {
+	font-family: 'arial';
+	margin-left: 8px;
+}
+#data {
+	width: 86px;
+	text-align: center;
+	float: left;
+	position: relative;
+	margin-left: 2px;
+	height: 60px;
+}
+#data1 {
+	display: block;
+	line-height: 60px;
+	cursor: pointer;
+	text-decoration: none;
+}
+#d1 {
+	font-family: 'arial';
+	padding-left: 5px;
+}
+#d2 {
+	padding-left: 3px;
+}
+#star {
+	height: 60px;
+	position: relative;
+	text-align: center;
+	float: left;
+	margin-left: 2px;
+	line-height: 60px;
+}
+#star1 {
+	display: block;
+	line-height: 62px 9;
+	padding: 0 10px;
+	text-decoration: none;
+}
+#slink {
+	width: 279px;
+	float: right;
+	height: 60px;
+	font-size: 12px;
+	padding:0 230px 0 0;
+	border-left: none;
+	color: #999999;
+}
+#login {
+	width: 66px;
+	height: 100%;
+	position: relative;
+	vertical-align: top;
+}
+#log {
+	padding-left: 33px;
+	position: relative;
+	line-height: 60px;
+	padding-right: 9px;
+	text-decoration: none;
+	color: #999999;
+}
+#mail {
+	width: 68px;
+	height: 60px; 
+}
+#mailtag {
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	padding: 0 0 0 31px;
+	text-align:left;
+	display: block;
+	color: #999999;
+	text-decoration: none;
+	position: relative;
+}
+#m1 {
+	position: relative;
+	z-index: 2;
+	margin: 0;
+}
+#browser {
+	width: 77px;
+	height: 60px;
+	vertical-align: top;
+}
+#brow {
+	height: 100%;
+	line-height: 60px;
+	padding: 0 0 0 22px;
+	text-align: left;
+	display: block;
+	color: #999999;
+	text-decoration: none;
+	position: relative;
+}
+#cskin {
+	vertical-align: top;
+	height: 60px;
+	color: #999999;
+	text-decoration: none;
+	margin-left: -10px;
+}
+#cs {
+	display: block;
+	height: 60px;
+	line-height: 60px;
+	padding: 0 0 0 31px;
+	text-align: left;
+	position: relative;
+}
+#banner {
+	width: 222px;
+	height: 60px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	overflow: hidden;
+	z-index: 16;
+}
+.hsimg1 {
+	position: absolute;
+	top: 23px;
+	left: 13px;
+}
+.hsimg2 {
+	position: absolute;
+	top: 25px;
+	left: 10px;
+}
+.hsimg3 {
+	position: absolute;
+	top: 22px;
+	left: 0;
+}
+.hsimg4 {
+	position: absolute;
+	top: 24px;
+	left: 10px;
+}

@@ -1,0 +1,123 @@
+#search {
+	width: 990px;
+	height: 82px;
+	margin: 0 auto;
+	position: relative;
+	/*z-index: 110;*/
+}
+#baidu {
+	display: inline-block;
+	position: relative;
+	width: 800px;
+	height: 44px;
+	padding: 42px 0 0 100px;	
+	margin: 0 auto;
+}
+#bdlogo {
+	width: 120px;
+	height: 40px;
+	float: left;
+	margin:0 20px 0 -26px;
+	display: block;
+	position: absolute;
+	left: 0;
+	z-index: 100;
+	text-decoration: none;
+}
+#wy {
+	display: inline-block;
+	width: 38px;
+	height: 42px;
+	display: block;
+	font:normal 12px/45px simsun;
+	color: #999999;
+	cursor: pointer;
+	position: absolute;
+	top: 40px;
+	left: 100px;
+	z-index: 1;
+	padding: 0 10px;
+}
+#rform {
+	margin-right: 0;
+}
+#f1 {
+	width: 540px;
+	height: 44px;
+	float: left;
+	outline: hidden;
+	position: relative;
+}
+#finput {
+	width: 448px;
+	height: 18px;
+	padding: 10px 0;
+	border:0;
+	margin:4px 30px 0 60px;
+	font:16px arial;
+	vertical-align: middle;
+	text-transform: none;
+	text-indent: 0px;
+	letter-spacing: normal;
+	word-spacing: normal;
+	display: inline-block;
+	text-align: start;
+	position: absolute;
+	top: 0;
+	right: 0;
+	outline: none;
+}
+#sbut {
+	vertical-align: top;
+	display: inline-block;
+	position: relative;
+}
+#sbutton {
+	width: 118px;
+	height: 44px;
+	vertical-align: middle;
+	display: inline-block;
+	border:0;
+	cursor: pointer;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+#xlli/*一横排的属性*/
+{
+	width: 38px;
+	height: 42px;
+	display: block;
+	font:normal 12px/45px simsun;
+	color: #999999;
+	cursor: pointer;
+	position: absolute;
+	top: 40px;
+	left: 100px;
+	z-index: 1;
+	padding: 0 10px;
+}
+#xlli:hover
+{
+	display: block;
+}
+.next
+{
+	display: none;
+} 
+.next ul li 
+{ 
+	display: block;
+	border-top: 1px solid white;
+}
+.next ul li a
+{
+	width: 38px;
+	height: 18px;
+	background-color:#FFFFFF;
+	display: block;
+}
+.next ul li a:hover
+{
+	background-color:  #F1F1F1;
+}

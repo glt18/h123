@@ -1,0 +1,63 @@
+#hot {
+			width: 1000px;
+			margin:0 auto;
+		}
+		#hotbox {
+			margin:6px 0 26px 195px;
+			position: relative;
+			width: 658px;
+			height: 20px;
+			z-index: 103;
+		}
+		#hotbox1 {
+			width: 658px;
+			height: 20px;
+			margin: 0 -125px 0;
+		}
+		#hotul {
+			width: 610px;
+			height: 20px;
+			overflow: hidden;
+			list-style-type: none;
+			display: block;
+		}
+		#title {
+			margin-right: 6px;
+			color: #999999;
+			display: inline-block;
+			text-decoration: none;
+		}
+		#titlea {
+			color: #090090;
+			padding-left: 15px;
+			padding-bottom: 1px;
+			font-size: 12px;
+			line-height: 20px;
+			text-decoration: none;
+			background: url(http://s1.hao123img.com/v5/gy/GB/tZ/y3/-e/2/index_widthlg.png) -159px -260px no-repeat;
+		}
+		.text {
+			margin-right: 12px;
+			display: inline-block;
+		}
+		li a {
+			font-size: 12px;
+			line-height: 20px;
+			color: #666666;
+			text-decoration: none;
+		}
+		#more {
+			width: 42px;
+			height: 18px;
+			overflow: hidden;
+			position: absolute;
+			top: 0;
+			right: 80px;
+			z-index: 105;
+			text-align: center;
+			cursor: pointer;
+			font-size: 12px;
+			line-height: 20px;
+			color: #34a637;
+			text-decoration: none;
+		}
